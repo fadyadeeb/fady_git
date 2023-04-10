@@ -5,3 +5,4 @@ course_fork
 
 this is a merged text
 
+second edit
